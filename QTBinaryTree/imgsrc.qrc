@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ellipse.png</file>
+        <file>dot.png</file>
+    </qresource>
+</RCC>

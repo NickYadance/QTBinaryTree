@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ellipse.png</file>
+        <file>D:/ChromeDownload/back.svg</file>
+    </qresource>
+</RCC>
